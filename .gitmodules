@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/ErickSalazar07/presentacion-01.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/foxinuni/arquitectura-2-front.git
