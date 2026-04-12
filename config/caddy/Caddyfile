@@ -1,6 +1,6 @@
 :80 {
     # Backend
-    handle /graphql* {
+    handle /graphql {
         reverse_proxy backend:8081
     }
 
